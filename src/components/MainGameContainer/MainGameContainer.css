@@ -1,16 +1,16 @@
 
-.mainCardContainer {
+.Container {
     margin-bottom: 50px;
     padding: 0; 
 }
 
-.gameMessage {
+.message {
     text-align: center;
     max-width: 100%;
     align-content: center
 }
 
-.gameMessage p {
+.message p {
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
@@ -20,13 +20,13 @@
     margin-bottom: 0px;
 }
 
-.gameScores {
+.scores {
     text-align: center;
     max-width: 100%;
     align-content: center;
     margin-bottom: 10px;
 }
-.gameScores p {
+.scores p {
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
